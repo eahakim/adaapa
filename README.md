@@ -1,2 +1,2 @@
 # adaapa
-share your local foods, places, news, etc
+Share your thought about local foods, places, news, etc
